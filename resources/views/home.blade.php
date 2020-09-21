@@ -16,14 +16,14 @@
                     <!--Top Left-->
                     <div class="top-left clearfix">
                         <ul class="links clearfix">
-                            <li><a href="#"><span class="icon fa fa-map-marker"></span>185, Los Angeles, USA</a></li>
-                            <li><a href="#"><span class="icon fa fa-envelope"></span>info@emarat.com</a></li>
+                            <li><a href="#"><span class="icon fa fa-map-marker"></span>123, Nairobi , Kenya</a></li>
+                            <li><a href="mailto:info@thinkgtmventuresltd.co.ke"><span class="icon fa fa-envelope"></span>info@thinkgtmventuresltd.co.ke</a></li>
                         </ul>
                     </div>
 
                     <!--Top Right-->
                     <div class="top-right pull-right">
-                        <div class="text">Welcome to Emarat Construction Template</div>
+                        <div class="text">Welcome to Think GTM Ventures Ltd Website</div>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"delay":0,"split":"chars","splitdelay":0.1,"speed":2000,"frame":"0","from":"x:[-105%];z:0;rX:0deg;rY:0deg;rZ:-90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                        <div class="title">we are the best</div>
+                        <div class="title">Think GTM Ventures Ltd</div>
                     </div>
                     
                     <div class="tp-caption" 
@@ -89,7 +89,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                        <h2><span class="theme_color">Construction</span> Experts</h2>
+                        <h2><span class="theme_color">The Construction</span> Experts</h2>
                     </div>
                     
                     <div class="tp-caption tp-resizeme" 
@@ -108,8 +108,8 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                        <div class="text">we’re an elite squad otf alpha geeks, creative storytellers and business minds. Together, we mix art and science to turn brands into favorites</div>
-                    </div>
+<!--                         <div class="text">we’re an elite squad otf alpha geeks, creative storytellers and business minds. Together, we mix art and science to turn brands into favorites</div>
+ -->                    </div>
                     
                     <div class="tp-caption tp-resizeme" 
                     data-paddingbottom="[0,0,0,0]"
@@ -151,7 +151,7 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                    	<div class="title text-right">we Build</div>
+                    	<div class="title text-right">Think GTM Ventures LTD We Build</div>
                     </div>
                     
                     <div class="tp-caption" 
@@ -189,8 +189,8 @@
                     data-y="['middle','middle','middle','middle']"
                     data-textalign="['top','top','top','top']"
                     data-frames='[{"from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                    	<div class="text alternate">we’re an elite squad otf alpha geeks, creative storytellers and business minds. Together, we mix art and science to turn brands into favorites</div>
-                    </div>
+<!--                     	<div class="text alternate">we’re an elite squad otf alpha geeks, creative storytellers and business minds. Together, we mix art and science to turn brands into favorites</div>
+ -->                    </div>
                     
                     <div class="tp-caption tp-resizeme" 
                     data-paddingbottom="[0,0,0,0]"
@@ -1062,76 +1062,7 @@
     <!--End Default Section-->
     
     <!--Footer Style Two-->
-    <footer class="footer-style-two" style="background-image:url(images/background/8.jpg)">
-    
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-            	<!--Info Column-->
-            	<div class="info-column col-lg-6 col-md-12 col-sm-12">
-                	<div class="inner-column">
-                    	<div class="sec-title light">
-                        	<div class="title">Contact us</div>
-                            <h2>Get in Touch</h2>
-                        </div>
-                        <div class="text">Thewebmax ipsum amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat. ipsum dolor sit amet, consectetuer adipiscing. ipsum dolor sit .</div>
-                        <ul class="list-style-two">
-                            <li><span class="icon fa fa-phone"></span>Call us 1-800-555-1234</li>
-                            <li><span class="icon fa fa-envelope"></span>info@emarat.com</li>
-                            <li><span class="icon fa fa-map-marker"></span>Open Hours 09:00 am - 06:00 pm</li>
-                            <li><span class="icon fa fa-clock-o"></span>185, Pickton Near Street, Los  Angeles, USA</li>
-                        </ul>
-                        <a href="#" class="theme-btn btn-style-one">Contact Us</a>
-                    </div>
-                </div>
-                
-                <!--Map Column-->
-            	<div class="map-column col-lg-6 col-md-12 col-sm-12">
-                	<div class="inner-column">
-                    	
-                        <!--Map Outer-->
-                        <div class="map-outer">
-                            <!--Map Canvas-->
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25216.765666144616!2d144.9456413371385!3d-37.8112271492458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b8c21cb29b%3A0x1c045678462e3510!2sMelbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2s!4v1598621076296!5m2!1sen!2s" height="520" ></iframe>
-                        </div>
-                        
-                        <ul class="social-icon-two">
-                            <li class="follow">Follow on: </li>
-                            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-instagram"></span></a></li>
-                            <li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-                        </ul>
-                        
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-        	<div class="auto-container">
-            	<div class="row clearfix">
-                	<div class="column col-lg-6 col-md-12 col-sm-12">
-                    	<div class="copyright">Copyrights 2020. All Rights are Reserved by <a href="#">expert-themes</a></div>
-                    </div>
-                    <div class="column col-lg-6 col-md-12 col-sm-12">
-                    	<ul class="footer-nav">
-                        	<li><a href="#">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Projects</a></li>
-                            <li><a href="#">Blogs</a></li>
-                            <li><a href="#">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </footer>
+    @include('partials._footer')
     <!--End Footer Style Two-->
     
 </div>
@@ -1139,37 +1070,6 @@
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-up"></span></div>
-
-<!-- Color Palate / Color Switcher -->
-<div class="color-palate">
-    <div class="color-trigger">
-        <i class="fa fa-gear"></i>
-    </div>
-    <div class="color-palate-head">
-        <h6>Choose Your Color</h6>
-    </div>
-    <div class="various-color clearfix">
-        <div class="colors-list">
-            <span class="palate default-color active" data-theme-file="css/color-themes/default-theme.css"></span>
-            <span class="palate green-color" data-theme-file="css/color-themes/green-theme.css"></span>
-            <span class="palate olive-color" data-theme-file="css/color-themes/olive-theme.css"></span>
-            <span class="palate orange-color" data-theme-file="css/color-themes/orange-theme.css"></span>
-            <span class="palate purple-color" data-theme-file="css/color-themes/purple-theme.css"></span>
-            <span class="palate teal-color" data-theme-file="css/color-themes/teal-theme.css"></span>
-            <span class="palate brown-color" data-theme-file="css/color-themes/brown-theme.css"></span>
-            <span class="palate redd-color" data-theme-file="css/color-themes/redd-color.css"></span>
-        </div>
-    </div>
-	
-	<ul class="rtl-version option-box"> <li class="rtl">RTL Version</li> <li>LTR Version</li> </ul>
-
-    <a href="#" class="purchase-btn">Purchase now $17</a>
-    
-    <div class="palate-foo">
-        <span>You will find much more options for colors and styling in admin panel. This color picker is used only for demonstation purposes.</span>
-    </div>
-
-</div>
 
 <script src="js/jquery.js"></script> 
 <!--Revolution Slider-->

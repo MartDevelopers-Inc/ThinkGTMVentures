@@ -12,7 +12,7 @@
                         <div class="upper-column info-box">
                             <div class="icon-box"><span class="flaticon-clock-2"></span></div>
                             <ul>
-                                <li><strong>09:00 am - 06:00 pm</strong></li>
+                                <li><strong>08:00 am - 06:00 pm</strong></li>
                                 <li>We Serve with Pleasure</li>
                             </ul>
                         </div>
@@ -21,7 +21,7 @@
                         <div class="upper-column info-box">
                             <div class="icon-box"><span class="flaticon-phone-call"></span></div>
                             <ul>
-                                <li><strong>(01) 98 756 321 01</strong></li>
+                                <li><strong>(+254) 720 265 991</strong></li>
                                 <li>Discuss any Queries</li>
                             </ul>
                         </div>
