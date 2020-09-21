@@ -3,7 +3,7 @@
         <div class="clearfix">
 
             <div class="pull-left logo-box">
-                <div class="logo"><a href="{{ url('/')}"><img src="{{ url('images/logo.png') }}" alt="" title=""></a></div>
+                <div class="logo"><a href="{{ url('/') }}"><img src="{{ url('images/logo.png') }}" alt="" title=""></a></div>
                     </div>
                     
                     <div class="pull-right upper-right clearfix">

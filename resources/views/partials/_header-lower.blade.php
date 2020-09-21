@@ -15,25 +15,7 @@
 
                 <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                     <ul class="navigation clearfix">
-                        <li class="current dropdown"><a href="#">Home</a>
-                            <ul>
-                                <li><a href="index-2.html">Homepage One</a></li>
-                                <li><a href="index-3.html">Homepage Two</a></li>
-                                <li><a href="index-4.html">Homepage Three</a></li>
-                                <li><a href="index-5.html">Homepage four</a></li>
-                                <li><a href="index-6.html">Homepage Five</a></li>
-                                <li><a href="index-7.html">Homepage Six</a></li>
-                                <li class="dropdown"><a href="#">Header Styles</a>
-                                    <ul>
-                                        <li><a href="index-2.html">Header Style One</a></li>
-                                        <li><a href="index-3.html">Header Style Two</a></li>
-                                        <li><a href="index-4.html">Header Style Three</a></li>
-                                        <li><a href="index-5.html">Header Style Four</a></li>
-                                        <li><a href="index-6.html">Header Style Five</a></li>
-                                        <li><a href="index-7.html">Header Style Six</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+                        <li class="current"><a href="{{ url('/') }}">Home</a>
                         </li>
                         <li class="dropdown"><a href="#">About us</a>
                             <ul>
