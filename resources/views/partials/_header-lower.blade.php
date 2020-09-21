@@ -42,7 +42,7 @@
                             </ul> -->
                         </li>
 
-                        <li class="dropdown has-mega-menu"><a href="#">Pages</a>
+                        <!-- <li class="dropdown has-mega-menu"><a href="#">Pages</a>
                             <div class="mega-menu">
                                 <div class="mega-menu-bar row clearfix">
                                     <div class="column col-lg-4 col-md-4 col-sm-12">
@@ -78,7 +78,7 @@
 
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
 
                        <!-- 
                         <li>                           

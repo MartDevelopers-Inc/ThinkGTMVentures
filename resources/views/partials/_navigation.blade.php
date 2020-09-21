@@ -21,8 +21,8 @@
                     <ul class="navigation clearfix">
                         <li class="current"><a href="{{ url('/') }}">Home</a>
                         </li>
-                        <li class="dropdown"><a href="#">About us</a>
-                            <ul>
+                        <li class="dropdown"><a href="{{ url('/about') }}">About us</a>
+                            <!-- <ul>
                                 <li><a href="about.html">About</a></li>
                                 <li><a href="price.html">Price</a></li>
                                 <li><a href="faq.html">Faq's</a></li>
@@ -31,22 +31,23 @@
                                 <li><a href="error-page.html">Error Page</a></li>
                                 <li><a href="team.html">Team</a></li>
                                 <li><a href="team-single.html">Team Single</a></li>
-                            </ul>
+                            </ul> -->
                         </li>
-                        <li class="dropdown"><a href="#">Services</a>
-                            <ul>
+                        <li class="dropdown"><a href="{{ url('/services') }}">Services</a>
+                            <!-- <ul>
                                 <li><a href="services.html">Services</a></li>
                                 <li><a href="services-single.html">Services Single</a></li>
-                            </ul>
+                            </ul> -->
                         </li>
-                        <li class="dropdown"><a href="#">Projects</a>
-                            <ul>
+                        <li class="dropdown"><a href="{{ url('/projects') }}">Projects</a>
+                            <!-- <ul>
                                 <li><a href="projects.html">Projects</a></li>
                                 <li><a href="projects-single.html">Projects Single</a></li>
-                            </ul>
+                            </ul> -->
                         </li>
 
-                        <li class="dropdown has-mega-menu"><a href="#">Pages</a>
+                        <!-- 
+                           <li>
                             <div class="mega-menu">
                                 <div class="mega-menu-bar row clearfix">
                                     <div class="column col-lg-3 col-md-6 col-sm-12">
@@ -93,26 +94,26 @@
 
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
 
                         <li class="dropdown"><a href="#">Blog</a>
-                            <ul>
+                            <!-- <ul>
                                 <li><a href="blog.html">Our Blog</a></li>
                                 <li><a href="blog-classic.html">Blog Classic</a></li>
                                 <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
                                 <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
                                 <li><a href="blog-detail.html">Blog Details</a></li>
-                            </ul>
+                            </ul> -->
                         </li>
-                        <li class="dropdown"><a href="#">Shop</a>
+                        <!-- <li class="dropdown"><a href="#">Shop</a>
                             <ul>
                                 <li><a href="shop.html">Shop</a></li>
                                 <li><a href="shop-single.html">Shop Details</a></li>
                                 <li><a href="shoping-cart.html">Cart Page</a></li>
                                 <li><a href="checkout.html">Checkout Page</a></li>
                             </ul>
-                        </li>
-                        <li><a href="contact.html">Contact us</a></li>
+                        </li> -->
+                        <li><a href="{{ url('/contact') }}">Contact us</a></li>
                     </ul>
                 </div>
             </nav><!-- Main Menu End-->
