@@ -15,9 +15,9 @@
 
                 <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                     <ul class="navigation clearfix">
-                        <li class="current"><a href="{{ url('/') }}">Home</a>
+                        <li class=""><a href="{{ url('/') }}">Home</a>
                         </li>
-                        <li class="dropdown"><a href="{{ url('/about') }}">About us</a>
+                        <li class=""><a href="{{ url('/about') }}">About us</a>
                             <!-- <ul>
                                 <li><a href="about.html">About</a></li>
                                 <li><a href="price.html">Price</a></li>
@@ -29,13 +29,13 @@
                                 <li><a href="team-single.html">Team Single</a></li>
                             </ul> -->
                         </li>
-                        <li class="dropdown"><a href="{{url('/services') }}">Services</a>
+                        <li class=""><a href="{{url('/services') }}">Services</a>
                             <!-- <ul>
                                 <li><a href="services.html">Services</a></li>
                                 <li><a href="services-single.html">Services Single</a></li>
                             </ul> -->
                         </li>
-                        <li class="dropdown"><a href="{{url('/projects') }}">Projects</a>
+                        <li class=""><a href="{{url('/projects') }}">Projects</a>
                             <!-- <ul>
                                 <li><a href="projects.html">Projects</a></li>
                                 <li><a href="projects-single.html">Projects Single</a></li>
@@ -80,7 +80,7 @@
                             </div>
                         </li> -->
 
-                       <!-- 
+                        <!-- 
                         <li>                           
                             <ul>
                                 <li><a href="blog.html">Our Blog</a></li>
