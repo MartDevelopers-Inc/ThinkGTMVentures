@@ -69,7 +69,7 @@
                             </div>
 
                             <div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['720','720','650','450']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['135','140','125','105']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"delay":0,"split":"chars","splitdelay":0.1,"speed":2000,"frame":"0","from":"x:[-105%];z:0;rX:0deg;rY:0deg;rZ:-90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
-                                <a href="about.html" class="theme-btn btn-style-one">Our Work</a><a href="about.html" class="theme-btn btn-style-two">Contact</a>
+                                <a href="{{ url('/projects') }}" class="theme-btn btn-style-one">Our Work</a><a href="{{ url(/contact) }}" class="theme-btn btn-style-two">Contact</a>
                             </div>
 
                         </li>
