@@ -2,7 +2,7 @@
     <div class="auto-container clearfix">
         <!--Logo-->
         <div class="logo pull-left">
-            <a href="{{ url('/') }}" class="img-responsive"><img src="{{ url('images/logo-small.png') }}" alt="" title=""></a>
+            <a href="{{ url('/') }}" class="img-responsive"><img src="{{ url('images/black-logo.png') }}" alt="" title=""></a>
         </div>
 
         <!--Right Col-->
