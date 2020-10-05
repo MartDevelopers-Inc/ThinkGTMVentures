@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title> Think GTM Ventures Ltd |  </title>
+    <title> Think GTM Ventures Ltd </title>
     <!-- Stylesheets -->
     <link href="{{ url('css/bootstrap.css') }}" rel="stylesheet">
     <link href="{{ url('plugins/revolution/css/settings.css') }}" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->

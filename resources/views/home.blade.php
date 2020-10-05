@@ -17,7 +17,7 @@
                         <!--Top Left-->
                         <div class="top-left clearfix">
                             <ul class="links clearfix">
-                                <li><a href="#"><span class="icon fa fa-map-marker"></span>123, Nairobi , Kenya</a></li>
+                                <li><a href="#"><span class="icon fa fa-map-marker"></span>Nairobi, Kenya</a></li>
                                 <li><a href="mailto:info@thinkgtmventuresltd.co.ke"><span class="icon fa fa-envelope"></span>info@thinkgtmventuresltd.co.ke</a></li>
                             </ul>
                         </div>

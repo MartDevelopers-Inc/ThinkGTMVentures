@@ -10,12 +10,13 @@
                         <div class="title">Contact us</div>
                         <h2>Get in Touch</h2>
                     </div>
-                    <div class="text">Thewebmax ipsum amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat. ipsum dolor sit amet, consectetuer adipiscing. ipsum dolor sit .</div>
+                    <div class="text"></div>
                     <ul class="list-style-two">
-                        <li><span class="icon fa fa-phone"></span>Call us 1-800-555-1234</li>
-                        <li><span class="icon fa fa-envelope"></span>info@emarat.com</li>
-                        <li><span class="icon fa fa-map-marker"></span>Open Hours 09:00 am - 06:00 pm</li>
-                        <li><span class="icon fa fa-clock-o"></span>185, Pickton Near Street, Los Angeles, USA</li>
+                        <li><span class="icon fa fa-phone"></span>Call us +254 720 256 991</li>
+                        <li><span class="icon fa fa-envelope"></span>info@thinkgtmventuresltd.co.ke</li>
+                        <li><span class="icon fa fa-envelope"></span>quriskyalo@gmail.com</li>
+                        <li><span class="icon fa fa-map-marker"></span>Open Hours 08:00 AM - 06:00 PM</li>
+                        <li><span class="icon fa fa-clock-o"></span>Nairobi, Kenya</li>
                     </ul>
                     <a href="#" class="theme-btn btn-style-one">Contact Us</a>
                 </div>

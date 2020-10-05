@@ -12,7 +12,7 @@
                         <div class="upper-column info-box">
                             <div class="icon-box"><span class="flaticon-clock-2"></span></div>
                             <ul>
-                                <li><strong>08:00 am - 06:00 pm</strong></li>
+                                <li><strong>08:00 AM - 06:00 PM</strong></li>
                                 <li>We Serve with Pleasure</li>
                             </ul>
                         </div>
