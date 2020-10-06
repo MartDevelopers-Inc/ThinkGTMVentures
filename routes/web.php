@@ -15,7 +15,7 @@ use Symfony\Component\HttpKernel\Event\ViewEvent;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('index');
 });
 
 Route::get('/about', function () {
