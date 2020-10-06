@@ -20,13 +20,10 @@
                         <li class=""><a href="{{ url('/') }}">Home</a>
                         </li>
                         <li class=""><a href="{{ url('/about') }}">About us</a>
-
                         </li>
                         <li class=""><a href="{{ url('/services') }}">Services</a>
                         </li>
                         <li class=""><a href="{{ url('/projects') }}">Projects</a>
-                        </li>
-                        <li class=""><a href="#">Blog</a>
                         </li>
                         <li><a href="{{ url('/contact') }}">Contact us</a></li>
                     </ul>
