@@ -266,7 +266,7 @@
             <div class="auto-container">
                 <div class="sec-title centered">
                     <div class="title">Our Services</div>
-                    <h2>Whats Our Offers</h2>
+                    <h2>What Think GTM Ventures Offers</h2>
                     <div class="seperater"></div>
                 </div>
                 <div class="row clearfix">

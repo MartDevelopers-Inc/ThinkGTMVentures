@@ -18,7 +18,7 @@
                         <li><span class="icon fa fa-map-marker"></span>Open Hours 08:00 AM - 06:00 PM</li>
                         <li><span class="icon fa fa-clock-o"></span>Nairobi, Kenya</li>
                     </ul>
-                    <a href="#" class="theme-btn btn-style-one">Contact Us</a>
+                    <a href="{{ url('/contact') }}" class="theme-btn btn-style-one">Contact Us</a>
                 </div>
             </div>
 
@@ -38,7 +38,6 @@
                         <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                         <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
                         <li><a href="#"><span class="fa fa-instagram"></span></a></li>
-                        <li><a href="#"><span class="fa fa-dribbble"></span></a></li>
                     </ul>
 
                 </div>
@@ -52,16 +51,16 @@
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="column col-lg-6 col-md-12 col-sm-12">
-                    <div class="copyright">Copyrights <?php echo date('Y'); ?>. All Rights are Reserved. Designed by <a href="https://martdev.info">MartDevelopers Inc</a></div>
+                    <div class="copyright">Copyrights <?php echo date('Y'); ?>. All Rights are Reserved. Designed by <a target="_blank" href="https://martdev.info">MartDevelopers Inc</a></div>
                 </div>
                 <div class="column col-lg-6 col-md-12 col-sm-12">
                     <ul class="footer-nav">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Blogs</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="{{ url('/') }}">Home</a></li>
+                        <li><a href="{{ url('/about') }}">About</a></li>
+                        <li><a href="{{ url('/services') }}">Services</a></li>
+                        <li><a href="{{ url('/projects') }}">Projects</a></li>
+                        <!-- <li><a href="">Blogs</a></li> -->
+                        <li><a href="{{ url('/contact') }}">Contact</a></li>
                     </ul>
                 </div>
             </div>
