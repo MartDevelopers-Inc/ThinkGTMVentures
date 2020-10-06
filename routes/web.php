@@ -27,5 +27,5 @@ Route::get('/services', function () {
 });
 
 Route::get('/projects', function () {
-    return view('/projects');
+    return view('projects');
 });
