@@ -1,4 +1,5 @@
 @include('partials._head')
+
 <body>
 
     <div class="page-wrapper">
@@ -63,7 +64,7 @@
                 <div class="title-box">
                     <div class="title">Write a Message</div>
                     <h2>Have Any Questions?</h2>
-                    <div class="text">Thank you very much for your interest in our company and our services and if you have any questions, please write us a message now!</div>
+                    <div class="text">Thank you very much for your interest in our company and our services and if you have any questions, please drop a message now!</div>
                 </div>
 
                 <!--Contact Form-->
@@ -79,11 +80,11 @@
                             </div>
 
                             <div class="form-group col-lg-12 col-md-12 col-sm-12">
-                                <textarea name="message" placeholder="Your Massage"></textarea>
+                                <textarea name="message" placeholder="Your Message"></textarea>
                             </div>
 
                             <div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
-                                <button type="submit" class="theme-btn message-btn">Send Massage</button>
+                                <button type="submit" class="theme-btn message-btn">Send Message</button>
                             </div>
                         </div>
                     </form>
@@ -176,5 +177,6 @@
 
     @include('partials._footer')
 </body>
+@include('partials._scripts')
 
 </html>
