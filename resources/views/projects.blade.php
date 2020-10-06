@@ -276,7 +276,7 @@
 
         <!--Main Footer-->
         <footer class="main-footer" style="background-image:url(images/background/6.jpg)">
-            @include('partials.footer')
+            @include('partials._footer')
         </footer>
 
     </div>
