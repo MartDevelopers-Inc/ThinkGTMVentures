@@ -65,12 +65,14 @@
                         <div class="inner-column">
                             <div class="sec-title">
                                 <div class="title">About Us</div>
-                                <h2>Think GTM Ventures Ltd, We Are The Leader in The Architectura!</h2>
+                                <h2>Think GTM Ventures Ltd, We Are The Leaders In Construction Industry.</h2>
                             </div>
-                            <div class="bold-text">36 Years Experience Working</div>
-                            <div class="text">For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors, we make sector-overarching links to gather knowledge and to learn from each other who we know will help us create added value for your project. As well as bringing together the public and private sectors, we make sector-overarching links to gather knowledge and to learn from each other.</div>
-                            <a href="#" class="theme-btn btn-style-one">Read More</a>
-                        </div>
+                            <div class="bold-text">With Over 5 Years Of Experience And Expertise.</div>
+                            <div class="text">
+                                Think Gtm Ventures Ltd is a renown construction company in Kenya, registered in category NCA
+                                1 by the National Construction Authority. The Company&#39;s headquarters located in Nairobi. </div>
+<!--                             <a href="#" class="theme-btn btn-style-one">Read More</a>
+ -->                        </div>
                     </div>
 
                     <!--Image Column-->
