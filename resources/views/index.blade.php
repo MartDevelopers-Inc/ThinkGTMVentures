@@ -126,7 +126,7 @@
             <div class="auto-container">
                 <div class="sec-title centered">
                     <div class="title">Our Services</div>
-                    <h2>Whats Our Offers</h2>
+                    <h2>What We Do</h2>
                     <div class="seperater"></div>
                 </div>
                 <div class="row clearfix">
@@ -137,8 +137,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-sketch"></span>
                             </div>
-                            <h3><a href="services-single.html">Property Sketching</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Architectural Services</a></h3>
+                            <div class="text">
+                                We offer construction services of houses and roads.
+                            </div>
                         </div>
                     </div>
 
@@ -148,8 +150,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-house-plans"></span>
                             </div>
-                            <h3><a href="services-single.html">Interior Designing</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Interior Designing</a></h3>
+                            <div class="text">
+                                We offer interior design fitting and petitioning services.
+                            </div>
                         </div>
                     </div>
 
@@ -159,8 +163,8 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-skyline"></span>
                             </div>
-                            <h3><a href="services-single.html">Exterior Design</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Exterior Design</a></h3>
+                            <div class="text">We offer land scaping and exterior design services.</div>
                         </div>
                     </div>
 
@@ -170,8 +174,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-document"></span>
                             </div>
-                            <h3><a href="services-single.html">Plan Approvals</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Construction Machine Leasing</a></h3>
+                            <div class="text">
+                                We offer leasing services of construction machines.
+                            </div>
                         </div>
                     </div>
 
@@ -181,8 +187,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-accounting"></span>
                             </div>
-                            <h3><a href="services-single.html">Plan Estimations</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">General Supplies</a></h3>
+                            <div class="text">
+                                We supply raw materials for construction such as sand, murram, ballast, cement, construction bars etc.
+                            </div>
                         </div>
                     </div>
 
@@ -192,8 +200,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-briefing"></span>
                             </div>
-                            <h3><a href="services-single.html">Plan Certification</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Land / Property Buying And Selling.</a></h3>
+                            <div class="text">
+                                We purchase and sale lands and properties.
+                            </div>
                         </div>
                     </div>
 
