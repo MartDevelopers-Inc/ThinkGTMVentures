@@ -70,7 +70,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/service-1.jpg)">
+                        <div class="inner-box" style="background-image:url(images/gallery/achi_services.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-sketch"></span>
                             </div>
@@ -96,7 +96,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/service-1.jpg)">
+                        <div class="inner-box" style="background-image:url(images/resource/)">
                             <div class="icon-box">
                                 <span class="icon flaticon-skyline"></span>
                             </div>
