@@ -71,15 +71,14 @@
                             <div class="text">
                                 Think Gtm Ventures Ltd is a renown construction company in Kenya, registered in category NCA
                                 1 by the National Construction Authority. The Company&#39;s headquarters located in Nairobi. </div>
-<!--                             <a href="#" class="theme-btn btn-style-one">Read More</a>
- -->                        </div>
+                        </div>
                     </div>
 
                     <!--Image Column-->
                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="image wow slideInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                <img src="{{ url('images/resource/about.jpg') }}" alt="" />
+                                <img src="{{ url('images/gallery/exteriour_design.jpg') }}" alt="" />
                             </div>
                         </div>
                     </div>

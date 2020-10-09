@@ -221,16 +221,14 @@
 
                         <div class="project-block-two">
                             <div class="inner-box row clearfix">
-
                                 <!--Content Column-->
                                 <div class="content-column col-lg-4 col-md-12 col-sm-12">
                                     <div class="inner-column">
                                         <div class="slide-number">01 <span>/ 02</span></div>
-                                        <h2><a href="#">Triangle Concrete <br> House On Lake</a></h2>
-                                        <a class="see-project" href="#">See Project <span class="arrow flaticon-right-arrow-4"></span></a>
+                                        <h2><a href="{{ url('/projects') }}">Propery <br> </a></h2>
+                                        <a class="see-project" href="{{ url('/projects') }}">See Project <span class="arrow flaticon-right-arrow-4"></span></a>
                                     </div>
                                 </div>
-
                                 <!--Image Column-->
                                 <div class="image-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
@@ -245,16 +243,14 @@
 
                         <div class="project-block-two">
                             <div class="inner-box row clearfix">
-
                                 <!--Content Column-->
                                 <div class="content-column col-lg-4 col-md-12 col-sm-12">
                                     <div class="inner-column">
                                         <div class="slide-number">02 <span>/ 02</span></div>
-                                        <h2><a href="#">Triangle Concrete <br> House On Lake</a></h2>
-                                        <a class="see-project" href="#">See Project <span class="arrow flaticon-right-arrow-4"></span></a>
+                                        <h2><a href="{{ url('/projects') }}">Triangle Concrete <br> House On Lake</a></h2>
+                                        <a class="see-project" href="{{ url('/projects') }}">See Project <span class="arrow flaticon-right-arrow-4"></span></a>
                                     </div>
                                 </div>
-
                                 <!--Image Column-->
                                 <div class="image-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
