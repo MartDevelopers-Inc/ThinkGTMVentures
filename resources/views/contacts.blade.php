@@ -108,7 +108,6 @@
                                 <div class="title">Contact us</div>
                                 <h2>Get in Touch</h2>
                             </div>
-                            <div class="text">Thewebmax ipsum amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat. ipsum dolor sit amet, consectetuer adipiscing. ipsum dolor sit .</div>
                             <ul class="list-style-two">
                                 <li><span class="icon fa fa-phone"></span>Call us +254 720 256 991</li>
                                 <li><span class="icon fa fa-envelope"></span>info@thinkgtmventuresltd.co.ke</li>
@@ -133,47 +132,45 @@
                             <!--Map Outer-->
                             <div class="map-outer">
                                 <!--Map Canvas-->
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25216.765666144616!2d144.9456413371385!3d-37.8112271492458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b8c21cb29b%3A0x1c045678462e3510!2sMelbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2s!4v1598621076296!5m2!1sen!2s" height="520"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26833.382089357485!2d36.80723800223571!3d-1.2906399220195242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi%2C%20Kenya!5e0!3m2!1sen!2sus!4v1602248587948!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                             </div>
-
                         </div>
-                    </div>
 
+                    </div>
                 </div>
             </div>
+            <!-- End Contact Page Info Section -->
+
+            <!--Main Footer-->
+            <footer class="main-footer" style="background-image:url(images/background/6.jpg)">
+
+                <!--Footer Bottom-->
+                <div class="footer-bottom">
+                    <div class="auto-container">
+                        <div class="row clearfix">
+                            <div class="column col-lg-6 col-md-6 col-sm-12">
+                                <div class="copyright">Copyrights <?php echo date('Y'); ?>. All Rights are Reserved. Crafted by <a href="https://martdev.info">MartDevelopers Inc</a></div>
+                            </div>
+                            <div class="column col-lg-6 col-md-6 col-sm-12">
+                                <ul class="footer-nav">
+                                    <li><a href="{{ url('/') }}">Home</a></li>
+                                    <li><a href="{{ url('/about') }}">About</a></li>
+                                    <li><a href="{{ url('/services') }}">Services</a></li>
+                                    <li><a href="{{ url('/projects') }}">Projects</a></li>
+                                    <li><a href="{{ url('/contacts') }}">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </footer>
+
         </div>
-        <!-- End Contact Page Info Section -->
+        <!--End pagewrapper-->
 
-        <!--Main Footer-->
-        <footer class="main-footer" style="background-image:url(images/background/6.jpg)">
-
-            <!--Footer Bottom-->
-            <div class="footer-bottom">
-                <div class="auto-container">
-                    <div class="row clearfix">
-                        <div class="column col-lg-6 col-md-6 col-sm-12">
-                            <div class="copyright">Copyrights <?php echo date('Y'); ?>. All Rights are Reserved. Crafted by <a href="https://martdev.info">MartDevelopers Inc</a></div>
-                        </div>
-                        <div class="column col-lg-6 col-md-6 col-sm-12">
-                            <ul class="footer-nav">
-                                <li><a href="{{ url('/') }}">Home</a></li>
-                                <li><a href="{{ url('/about') }}">About</a></li>
-                                <li><a href="{{ url('/services') }}">Services</a></li>
-                                <li><a href="{{ url('/projects') }}">Projects</a></li>
-                                <li><a href="{{ url('/contacts') }}">Contact</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </footer>
-
-    </div>
-    <!--End pagewrapper-->
-
-    <!--Scroll to top-->
-    <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-up"></span></div>
+        <!--Scroll to top-->
+        <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-up"></span></div>
 
 </body>
 @include('partials._scripts')
