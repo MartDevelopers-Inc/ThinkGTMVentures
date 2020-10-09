@@ -225,7 +225,7 @@
                                 <!--Content Column-->
                                 <div class="content-column col-lg-4 col-md-12 col-sm-12">
                                     <div class="inner-column">
-                                        <div class="slide-number">01 <span>/ 10</span></div>
+                                        <div class="slide-number">01 <span>/ 02</span></div>
                                         <h2><a href="#">Triangle Concrete <br> House On Lake</a></h2>
                                         <a class="see-project" href="#">See Project <span class="arrow flaticon-right-arrow-4"></span></a>
                                     </div>
@@ -235,7 +235,7 @@
                                 <div class="image-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
                                         <div class="image">
-                                            <img src="{{ url('images/resource/project-2.jpg') }}" alt="" />
+                                            <img src="{{ url('images/gallery/achi_services.jpg') }}" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -249,7 +249,7 @@
                                 <!--Content Column-->
                                 <div class="content-column col-lg-4 col-md-12 col-sm-12">
                                     <div class="inner-column">
-                                        <div class="slide-number">02 <span>/ 10</span></div>
+                                        <div class="slide-number">02 <span>/ 02</span></div>
                                         <h2><a href="#">Triangle Concrete <br> House On Lake</a></h2>
                                         <a class="see-project" href="#">See Project <span class="arrow flaticon-right-arrow-4"></span></a>
                                     </div>
@@ -259,7 +259,7 @@
                                 <div class="image-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
                                         <div class="image">
-                                            <img src="{{ url('images/resource/project-2.jpg') }}" alt="" />
+                                            <img src="{{ url('images/gallery/land_proprty_selling.jpg') }}" alt="" />
                                         </div>
                                     </div>
                                 </div>
