@@ -58,215 +58,12 @@
         </section>
         <!--End Page Title-->
 
-        <section class="services-section-three">
-            <div class="auto-container">
-                <div class="row clearfix">
-
-                    <!--Services Block Two-->
-                    <div class="services-block-two col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/service-2.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <div class="content">
-                                            <div class="text">Builter Service typesetting constration. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                                            <a href="" class="read-more">READ MORE <span class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-box">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-sketch"></span>
-                                </div>
-                                <h3><a href="services-single.html">Property Sketching</a></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Services Block Two-->
-                    <div class="services-block-two col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/service-3.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <div class="content">
-                                            <div class="text">Builter Service typesetting constration. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                                            <a href="services-single.html" class="read-more">READ MORE <span class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-box">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-house-plans"></span>
-                                </div>
-                                <h3><a href="services-single.html">Property Sketching</a></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Services Block Two-->
-                    <div class="services-block-two col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/service-4.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <div class="content">
-                                            <div class="text">Builter Service typesetting constration. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                                            <a href="services-single.html" class="read-more">READ MORE <span class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-box">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-document"></span>
-                                </div>
-                                <h3><a href="services-single.html">Property Sketching</a></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Services Block Two-->
-                    <div class="services-block-two col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/service-5.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <div class="content">
-                                            <div class="text">Builter Service typesetting constration. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                                            <a href="services-single.html" class="read-more">READ MORE <span class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-box">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-hotel"></span>
-                                </div>
-                                <h3><a href="services-single.html">Property Sketching</a></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Services Block Two-->
-                    <div class="services-block-two col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/service-6.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <div class="content">
-                                            <div class="text">Builter Service typesetting constration. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                                            <a href="services-single.html" class="read-more">READ MORE <span class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-box">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-money-bag"></span>
-                                </div>
-                                <h3><a href="services-single.html">Property Sketching</a></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Services Block Two-->
-                    <div class="services-block-two col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/resource/service-7.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <div class="overlay-inner">
-                                        <div class="content">
-                                            <div class="text">Builter Service typesetting constration. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                                            <a href="services-single.html" class="read-more">READ MORE <span class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-box">
-                                <div class="icon-box">
-                                    <span class="icon flaticon-law"></span>
-                                </div>
-                                <h3><a href="services-single.html">Property Sketching</a></h3>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-        <!--Fun Facts Section-->
-        <div class="fact-counter-section" style="background-image:url(images/background/2.jpg);">
-            <div class="fact-counter">
-                <div class="auto-container">
-                    <div class="row clearfix">
-
-                        <!--Column-->
-                        <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
-                            <div class="inner">
-                                <div class="count-outer count-box">
-                                    <span class="icon flaticon-user"></span>
-                                    <span class="count-text" data-speed="3500" data-stop="1200">0</span>
-                                    <h4 class="counter-title">BEST ENGINEERS</h4>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
-                            <div class="inner">
-                                <div class="count-outer count-box">
-                                    <span class="icon fa fa-smile-o"></span>
-                                    <span class="count-text" data-speed="2500" data-stop="3560">0</span>
-                                    <h4 class="counter-title">HAPPY CUSTOMERS</h4>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
-                            <div class="inner">
-                                <div class="count-outer count-box">
-                                    <span class="icon flaticon-map-marker"></span>
-                                    <span class="count-text" data-speed="2200" data-stop="198">0</span>
-                                    <h4 class="counter-title">OUR BRANCHES</h4>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
-                            <div class="inner">
-                                <div class="count-outer count-box">
-                                    <span class="icon flaticon-street"></span>
-                                    <span class="count-text" data-speed="2000" data-stop="4351">0</span>
-                                    <h4 class="counter-title">COMPLETED PROJECTS</h4>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            <div class="outer-image"><img src="{{ url('images/resource/image-1.png') }}" alt="" /></div>
-        </div>
-        <!--End Fun Facts Section-->
-
         <!--Services Section-->
         <section class="services-section">
             <div class="auto-container">
                 <div class="sec-title centered">
                     <div class="title">Our Services</div>
-                    <h2>What Think GTM Ventures Offers</h2>
+                    <h2>What We Do</h2>
                     <div class="seperater"></div>
                 </div>
                 <div class="row clearfix">
@@ -277,8 +74,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-sketch"></span>
                             </div>
-                            <h3><a href="services-single.html">Property Sketching</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Architectural Services</a></h3>
+                            <div class="text">
+                                We offer construction services of houses and roads.
+                            </div>
                         </div>
                     </div>
 
@@ -288,8 +87,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-house-plans"></span>
                             </div>
-                            <h3><a href="services-single.html">Interior Designing</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Interior Designing</a></h3>
+                            <div class="text">
+                                We offer interior design fitting and petitioning services.
+                            </div>
                         </div>
                     </div>
 
@@ -299,8 +100,8 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-skyline"></span>
                             </div>
-                            <h3><a href="services-single.html">Exterior Design</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Exterior Design</a></h3>
+                            <div class="text">We offer land scaping and exterior design services.</div>
                         </div>
                     </div>
 
@@ -310,8 +111,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-document"></span>
                             </div>
-                            <h3><a href="services-single.html">Plan Approvals</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Construction Machine Leasing</a></h3>
+                            <div class="text">
+                                We offer leasing services of construction machines.
+                            </div>
                         </div>
                     </div>
 
@@ -321,8 +124,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-accounting"></span>
                             </div>
-                            <h3><a href="services-single.html">Plan Estimations</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">General Supplies</a></h3>
+                            <div class="text">
+                                We supply raw materials for construction such as sand, murram, ballast, cement, construction bars etc.
+                            </div>
                         </div>
                     </div>
 
@@ -332,8 +137,10 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-briefing"></span>
                             </div>
-                            <h3><a href="services-single.html">Plan Certification</a></h3>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>
+                            <h3><a href="">Land / Property Buying And Selling.</a></h3>
+                            <div class="text">
+                                We purchase and sale lands and properties.
+                            </div>
                         </div>
                     </div>
 
