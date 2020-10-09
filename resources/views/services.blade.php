@@ -96,7 +96,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/)">
+                        <div class="inner-box" style="background-image:url(images/gallery/extr.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-skyline"></span>
                             </div>
@@ -107,7 +107,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/service-1.jpg)">
+                        <div class="inner-box" style="background-image:url(images/gallery/construction_materials.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-document"></span>
                             </div>
@@ -120,7 +120,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/service-1.jpg)">
+                        <div class="inner-box" style="background-image:url(images/gallery/general_supplies.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-accounting"></span>
                             </div>
@@ -133,7 +133,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/service-1.jpg)">
+                        <div class="inner-box" style="background-image:url(images/gallery/land_proprty_selling.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-briefing"></span>
                             </div>
@@ -148,8 +148,6 @@
             </div>
         </section>
         <!--End Services Section-->
-
-
 
         <!--Main Footer-->
         <footer class="main-footer" style="background-image:url(images/background/6.jpg)">
