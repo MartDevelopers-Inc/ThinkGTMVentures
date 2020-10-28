@@ -1,4 +1,4 @@
-<p align="center"><a href="https://http://thinkgtmventures.co.ke/" target="_blank"><img src="https://raw.githubusercontent.com/MartDevelopers-Inc/ThinkGTMVentures/master/public/images/logo.png" width="400"></a></p>
+<p align="center"><a href="https://http://thinkgtmventures.co.ke/" target="_blank"><img src="https://raw.githubusercontent.com/MartDevelopers-Inc/ThinkGTMVentures/master/public/images/logo.png" width="200"></a></p>
 
 
 ## About ThinkGTMVentures
