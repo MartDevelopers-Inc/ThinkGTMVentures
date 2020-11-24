@@ -17,7 +17,7 @@
                         <!--Top Left-->
                         <div class="top-left clearfix">
                             <ul class="links clearfix">
-                                <li><a href="#"><span class="icon fa fa-map-marker"></span>Nairobi, Kenya</a></li>
+                                <li><a href="#"><span class="icon fa fa-map-marker"></span>Corner House, 12th Floor, Wing A Room A4, Nairobi, Kenya</a></li>
                                 <li><a href="mailto:info@thinkgtmventuresltd.co.ke"><span class="icon fa fa-envelope"></span>info@thinkgtmventuresltd.co.ke</a></li>
                             </ul>
                         </div>
@@ -52,8 +52,8 @@
                 <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                     <ul>
 
-                        <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                            <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/image-1.jpg">
+                        <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="public/images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">
+                            <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="public/images/main-slider/image-1.jpg">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['720','720','650','450']" data-whitespace="normal" data-hoffset="['15','15','15','15']" data-voffset="['-120','-160','-130','-135']" data-x="['left','left','left','left']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"delay":0,"split":"chars","splitdelay":0.1,"speed":2000,"frame":"0","from":"x:[-105%];z:0;rX:0deg;rY:0deg;rZ:-90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'>
                                 <div class="title">Think GTM Ventures Ltd</div>
@@ -74,8 +74,8 @@
 
                         </li>
 
-                        <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                            <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/image-3.jpg">
+                        <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="{{ url('public/images/main-slider/image-1.jpg') }}" data-title="Slide Title" data-transition="parallaxvertical">
+                            <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="{{ url('public/images/main-slider/image-3.jpeg') }}">
 
                             <div class="tp-caption" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-width="['720','720','650','450']" data-whitespace="normal" data-hoffset="['15','15','0','0']" data-voffset="['-120','-135','-110','-130']" data-x="['right','right','center','center']" data-y="['middle','middle','middle','middle']" data-textalign="['top','top','top','top']" data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
                                 <div class="title text-right">Think GTM Ventures LTD We Build</div>
@@ -105,7 +105,7 @@
         <!--End Main Slider-->
 
         <!--Call To Action Section-->
-        <section class="call-to-action-section" style="background-image:url(images/background/2.jpg)">
+        <section class="call-to-action-section" style="background-image:url(public/images/background/2.jpg)">
             <div class="auto-container">
                 <div class="clearfix">
 
@@ -133,7 +133,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/gallery/achi_services.jpg)">
+                        <div class="inner-box" style="background-image:url(public/images/gallery/achi_services.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-sketch"></span>
                             </div>
@@ -146,7 +146,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/resource/service-1.jpg)">
+                        <div class="inner-box" style="background-image:url(public/images/resource/service-1.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-house-plans"></span>
                             </div>
@@ -159,7 +159,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/gallery/extr.jpg)">
+                        <div class="inner-box" style="background-image:url(public/images/gallery/extr.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-skyline"></span>
                             </div>
@@ -170,7 +170,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/gallery/construction_materials.jpg)">
+                        <div class="inner-box" style="background-image:url(public/images/gallery/construction_materials.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-document"></span>
                             </div>
@@ -183,7 +183,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/gallery/general_supplies.jpg)">
+                        <div class="inner-box" style="background-image:url(public/images/gallery/general_supplies.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-accounting"></span>
                             </div>
@@ -196,7 +196,7 @@
 
                     <!--Services Block-->
                     <div class="services-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box" style="background-image:url(images/gallery/land_proprty_selling.jpg)">
+                        <div class="inner-box" style="background-image:url(public/images/gallery/land_proprty_selling.jpg)">
                             <div class="icon-box">
                                 <span class="icon flaticon-briefing"></span>
                             </div>
@@ -233,7 +233,7 @@
                                 <div class="image-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
                                         <div class="image">
-                                            <img src="{{ url('images/gallery/achi_services.jpg') }}" alt="" />
+                                            <img src="{{ url('public/images/gallery/achi_services.jpg') }}" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -255,7 +255,7 @@
                                 <div class="image-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
                                         <div class="image">
-                                            <img src="{{ url('images/gallery/land_proprty_selling.jpg') }}" alt="" />
+                                            <img src="{{ url('public/images/gallery/land_proprty_selling.jpg') }}" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -267,8 +267,15 @@
                 </div>
             </div>
         </section>
-        <!--End Fullwidth Gallery Section-->
-
+        <section class="video-section" style="background-image:url(public/images/gallery/excavation2.jpeg)">
+        	<div class="auto-container">
+            	<a href="{{ url('public/images/ThinkGTM.mp4') }}" class="lightbox-image play-icon">
+            	    <span class="flaticon-play-button-5"></span></a>
+                <div class="title"></div>
+                <h2>Watch Us On The Field</h2>
+                <div class="text">Watch ThinkGTM Ventures In Action</div>
+            </div>
+        </section>
         <!--Footer Style Two-->
         @include('partials._footer')
         <!--End Footer Style Two-->
