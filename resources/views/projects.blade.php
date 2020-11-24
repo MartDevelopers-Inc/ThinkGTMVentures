@@ -17,7 +17,7 @@
                         <!--Top Left-->
                         <div class="top-left clearfix">
                             <ul class="links clearfix">
-                                <li><a href="#"><span class="icon fa fa-map-marker"></span>Nairobi, Kenya</a></li>
+                                <li><a href="#"><span class="icon fa fa-map-marker"></span>Corner House, 12th Floor, Wing A Room A4, Nairobi, Kenya</a></li>
                                 <li><a href="mailto:info@thinkgtmventuresltd.co.ke"><span class="icon fa fa-envelope"></span>info@thinkgtmventuresltd.co.ke</a></li>
                             </ul>
                         </div>
@@ -46,7 +46,7 @@
         <!--End Main Header -->
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(images/background/13.jpg)">
+        <section class="page-title" style="background-image:url(public/images/background/13.jpg)">
             <div class="auto-container">
                 <h1>Projects</h1>
                 <ul class="page-breadcrumb">
@@ -74,7 +74,7 @@
                         <div class="project-block col-lg-6 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="{{ url('images/gallery/achi_services.jpg') }}" alt="" />
+                                    <img src="{{ url('public/images/gallery/achi_services.jpg') }}" alt="" />
                                     <div class="overlay-box">
                                         <div class="content">
                                         </div>
@@ -87,7 +87,7 @@
                         <div class="project-block col-lg-6 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="{{ url('images/gallery/IMG-20200926-WA0007.jpg') }}" alt="" />
+                                    <img src="{{ url('public/images/gallery/IMG-20200926-WA0007.jpg') }}" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                         <div class="project-block col-lg-6 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="{{ url('images/gallery/exteriour_design.jpg') }}" alt="" />
+                                    <img src="{{ url('public/images/gallery/exteriour_design.jpg') }}" alt="" />
                                     <div class="overlay-box">
                                         <div class="content">
                                         </div>
@@ -110,7 +110,7 @@
                         <div class="project-block col-lg-6 col-md-6 col-sm-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="{{ url('images/gallery/land_proprty_selling.jpg') }}" alt="" />
+                                    <img src="{{ url('public/images/gallery/land_proprty_selling.jpg') }}" alt="" />
                                     <div class="overlay-box">
                                         <div class="content">
                                         </div>
@@ -123,7 +123,7 @@
                         <div class="project-block col-lg-6 col-md-12 col-sm-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="{{ url('images/gallery/IMG-20200925-WA0025.jpg') }}" alt="" />
+                                    <img src="{{ url('public/images/gallery/IMG-20200925-WA0025.jpg') }}" alt="" />
                                     <!--Overlay Two-->
                                 </div>
                             </div>
@@ -133,50 +133,101 @@
                         <div class="project-block col-lg-6 col-md-12 col-sm-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="{{ url('images/gallery/extr.jpg') }}" alt="" />
+                                    <img src="{{ url('public/images/gallery/extr.jpg') }}" alt="" />
                                     <!--Overlay Two-->
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
         <!--End Project Page Section-->
-
-        <!--Subscribe Section-->
-        <section class="subscribe-section">
+        
+         <section class="project-page-section">
             <div class="auto-container">
-                <div class="row clearfix">
-                    <!--Form Column-->
-                    <div class="title-column col-lg-6 col-md-12 col-sm-12">
-                        <h2>Need more information?</h2>
-                        <div class="text">Please email us and our support staff will contact you back</div>
-                        <div class="icon-box">
-                            <span class="icon flaticon-envelope-1"></span>
-                        </div>
-                    </div>
-                    <!--Form Column-->
-                    <div class="form-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner-column">
-                            <div class="subscribe-form">
-                                <form method="post" action="">
-                                    <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your mail" required>
-                                        <button type="submit" class="theme-btn">Subscribe</button>
+                <!--Sec Title-->
+                <div class="sec-title centered">
+                    <div class="title">Our Heavy Duty Industrial Grade Machines For Hire</div>
+                    <div class="seperater"></div>
+                </div>
+               <div class="mixitup-gallery">
+
+                    <div class="filter-list row clearfix">
+
+                        <!--Project Block-->
+                        <div class="project-block col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <img src="{{ url('public/images/gallery/Machinery_For_Hire1.jpg') }}" alt="" />
+                                    <div class="overlay-box">
+                                        <div class="content">
+                                        </div>
                                     </div>
-                                </form>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Project Block-->
+                        <div class="project-block col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <img src="{{ url('public/images/gallery/Machinery_For_Hire2.jpg') }}" alt="" />
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <!--Project Block-->
+                        <div class="project-block col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <img src="{{ url('public/images/gallery/Machinery_For_Hire3.jpg') }}" alt="" />
+                                    <div class="overlay-box">
+                                        <div class="content">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Project Block-->
+                        <div class="project-block col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <img src="{{ url('public/images/gallery/Machinery_For_Hire4.jpg') }}" alt="" />
+                                    <div class="overlay-box">
+                                        <div class="content">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Project Block-->
+                        <div class="project-block col-lg-6 col-md-12 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <img src="{{ url('public/images/gallery/Machinery_For_Hire5.jpg') }}" alt="" />
+                                    <!--Overlay Two-->
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!--End Subscribe Section-->
-
-        <!--Main Footer-->
-        <footer class="main-footer" style="background-image:url(images/background/6.jpg)">
+        <!--Video Section-->
+        <section class="video-section" style="background-image:url(public/images/gallery/excavation2.jpeg)">
+        	<div class="auto-container">
+            	<a href="{{ url('public/images/ThinkGTM.mp4') }}" class="lightbox-image play-icon">
+            	    <span class="flaticon-play-button-5"></span></a>
+                <div class="title"></div>
+                <h2>Watch Us On The Field</h2>
+                <div class="text">Watch ThinkGTM Ventures In Action</div>
+            </div>
+        </section>
+        <footer class="main-footer" style="background-image:url(public/images/background/6.jpg)">
             @include('partials._footer')
         </footer>
 
